@@ -1,10 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF7F50&center=true&vCenter=true&width=500&lines=Дарья+Лампочка;Frontend+Developer;React+⭐️+Next.js+⚡️+Angular;Clean+Code+💎+Pixel+Perfect" alt="Typing SVG" />
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome&fontSize=30&fontAlignY=35&animation=fadeIn)
+  
+  <h1 style="color: #FF7F50;">Дарья</h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=20&duration=2500&pause=1000&color=4ECDC4&center=true&vCenter=true&width=350&lines=Frontend+Developer;React+Specialist;Clean+Code+Enthusiast" alt="Typing SVG" />
+  
 </div>
+
 
 <h2 align="center">🛠️ Мой Технологический Стек</h2>
 
 <p align="center">Инструменты, которые я использую для создания крутых продуктов 📱</p>
+
+<br>
 
 <h3 align="center">🎨 Frontend Разработка</h3>
 <p align="center">
@@ -38,11 +47,11 @@
 <h2 align="center">📊 Моя Активность</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lamp0chka0&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="Статистика" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamp0chka0&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Топ языков" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daria-light&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="Статистика" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daria-light&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Топ языков" height="165">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamp0chka0&theme=radical&hide_border=true&background=00000000" alt="Рекорд активностей" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daria-light&theme=radical&hide_border=true&background=00000000" alt="Рекорд активностей" height="165">
 </p>
 
 ---
@@ -65,13 +74,13 @@
 
 <p align="center">
   <a href="https://t.me/lamp0chka0">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> 
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> 📲
   </a>
   <a href="mailto:lampochkat@bk.ru">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> 
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> ✉️
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lamp0chka0&style=flat-square&color=blue" alt="Просмотры профиля"> 👀
+  <img src="https://komarev.com/ghpvc/?username=Daria-light&style=flat-square&color=blue" alt="Просмотры профиля"> 👀
 </p>
