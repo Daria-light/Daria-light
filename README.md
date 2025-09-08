@@ -2,9 +2,16 @@
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome&fontSize=30&fontAlignY=35&animation=fadeIn)
   
-  <h1 style="color: #FF7F50;">Дарья</h1>
+
+
+  <div>
+<h1 style="font-family: 'Silkscreen', cursive; color: #FF7F50; font-size: 32px;">
+  <div>Дарья</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=16&duration=2500&pause=1000&color=4ECDC4&center=true&vCenter=true&width=420&lines=Frontend+Developer;React+Specialist;Clean+Code+Enthusiast" alt="Typing SVG" />
+</h1>
+    
+  </div>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=20&duration=2500&pause=1000&color=4ECDC4&center=true&vCenter=true&width=350&lines=Frontend+Developer;React+Specialist;Clean+Code+Enthusiast" alt="Typing SVG" />
   
 </div>
 
@@ -65,7 +72,7 @@
 <p align="center">
   🔹 Для меня главное — <b>чистый код во всех составляющих</b>: от архитектуры до именования переменных<br>
   🌱 В настоящее время <b>углубляюсь в современные фреймворки</b> и расширяю портфолио на биржах фриланса<br>
-  ⚡️ Верю, что качественный код — это уважение к коллегам и залог успеха любого проекта
+  ⚡️ Верю, что качественный код — это уважение к коллегам и заказчикам, а главное залог успеха любого проекта
 </p>
 
 ---
